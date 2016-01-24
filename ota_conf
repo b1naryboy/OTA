@@ -7,7 +7,7 @@
 # * Multiple devices can be added in the xml file
 # * You can define any tags that end with 'Url'. These tags will be added in the UI automatically
 #
-ota_url=https://github.com/ResurrectionRemix/OTA/raw/master/akhil.xml
+ota_url=https://github.com/Bun-Bun69/OTA/raw/master/rr.xml
 release_type=Stable
 device_name=ro.rr.device
  
