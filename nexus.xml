@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <sprout>
+            <Filename>pure_nexus_sprout4-6.0.1-20160126-CMTE.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download PureNexus builds">https://www.androidfilehost.com/?fid=24269982087020243</RomUrl>
+            
+         
+            <SlimGappsUrl
+            	id="slim_gapps"
+            	title="Slim GApps"
+            	description="Download Slim latest GApps">https://www.androidfilehost.com/?w=files&amp;flid=41043</SlimGappsUrl>
+           <BanksGappsUrl
+            	id="banks_gapps"
+            	title="BaNkS Dynamic GApps"
+            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+	</sprout>
+
+</SlimOTA>
