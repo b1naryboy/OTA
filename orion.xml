@@ -2,32 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sprout4>
-            <Filename>OrionOS-sprout4-2.1-OFFICIAL-20160201.zip</Filename>
-            <RomUrl
+            <Filename>OrionOS-sprout4-2.1-OFFICIAL-20160131.zip</Filename>
+            <RomUrl>
                 id="rom"
                 title="Rom"
-                description="Download New OrionOS build">google.com</RomUrl>
-                        <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
-            <BanksGappsUrl
-            	id="banks_gapps"
-            	title="BaNkS Dynamic GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-	</sprout4>
-    </Stable> 
-    <Stable>
-       <sprout8>
-            <Filename>ResurrectionRemix-M-v5.6.2-20160127-sprout8.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download New OroinOS build">https://qc3.androidfilehost.com/dl/LdyNrH7fNJhyq1eJvaqiLQ/1454126131/24391638059057380/ResurrectionRemix-M-v5.6.2-20160127-sprout8.zip</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+                description="Download New OrionOS build">https://qc3.androidfilehost.com/dl/oirm0yKFd7l7jG3H5C6dCw/1454487275/24391638059059783/OrionOS-sprout4-2.1-OFFICIAL-20160131.zip</RomUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
@@ -36,6 +15,6 @@
             	id="banks_gapps"
             	title="BaNkS Dynamic GApps"
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
-	</sprout8>
+	</sprout4>
     </Stable> 
 </SlimOTA>
