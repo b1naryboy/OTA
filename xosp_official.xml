@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sprout4>
-            <Filename>XOSP-4.1-OFFICIAL-20160227-sprout4.zip</Filename>
+            <Filename>XOSP-4.2-OFFICIAL-20160227-sprout4.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
