@@ -18,4 +18,26 @@
             
 	</sprout4>
     </Stable>
+       <Stable>
+        <Z00A>
+            <Filename>XOSP-4.1-OFFICIAL-20160221-Z00A.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">https://androidfilehost.com/?fid=24421527759884378</RomUrl>
+            <XOSPAppsUrl
+            	id="xosp_apps"
+            	title="XOSPApps"
+            	description=XOSPApps for ROM>https://androidfilehost.com/?fid=24421527759884370</XOSPAppsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="All Up-to date changes">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+         </Z00A>
+    </Stable>
 </SlimOTA>
+
