@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <sprout4>
+            <Filename>XOSP-4.1-OFFICIAL-20160223-sprout4.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download the latest XOSP BUILD">http://ca1.androidfilehost.com/dl/9jJ3BsAS7XzgSJD65DcplA/1456529024/24421527759884907/XOSP-4.1-OFFICIAL-20160221-sprout4.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="test2">https://raw.githubusercontent.com/XOSP-Project/android_vendor_xosp/xosp-mm/README.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+            
+	</sprout4>
+    </Stable>
+</SlimOTA>
