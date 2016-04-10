@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    </Stable> 
-    <Stable>
+  <Stable>
         <tomato>
             <Filename>ResurrectionRemix-M-v5.6.7-20160409-lettuce.zip</Filename>
             <RomUrl
@@ -22,4 +21,4 @@
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
 	</tomato>
     </Stable> 
-</SlimOTA> 
+</SlimOTA>
