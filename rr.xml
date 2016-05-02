@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <sprout4>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160418-sprout4.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160502-sprout4.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/sprout4/ResurrectionRemix-M-v5.6.7-20160418-sprout4.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/sprout4/ResurrectionRemix-M-v5.6.8-20160502-sprout4.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,11 +23,11 @@
     </Stable> 
     <Stable>
        <sprout8>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160418-sprout8.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160502-sprout8.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/sprout8/ResurrectionRemix-M-v5.6.7-20160418-sprout8.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/sprout8/ResurrectionRemix-M-v5.6.8-20160502-sprout8.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -44,11 +44,11 @@
     </Stable> 
     <Stable>
         <lettuce>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160424-lettuce.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160502-lettuce.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/lettuce/ResurrectionRemix-M-v5.6.7-20160424-lettuce.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/lettuce/ResurrectionRemix-M-v5.6.8-20160502-lettuce.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -65,11 +65,11 @@
     </Stable> 
     <Stable>
         <oneplus2>
-            <Filename>ResurrectionRemix-M-v5.6.7-20160424-oneplus2.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.6.8-20160502-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/oneplus2/ResurrectionRemix-M-v5.6.7-20160424-oneplus2.zip</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/oneplus2/ResurrectionRemix-M-v5.6.8-20160502-oneplus2.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
