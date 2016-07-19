@@ -65,11 +65,11 @@
     </Stable> 
     <Stable>
         <oneplus2>
-            <Filename>ResurrectionRemix-M-v5.7.0-20160711-oneplus2zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.0-20160718-oneplus2.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=24591000424946199</RomUrl>
+                description="Download latest ResurrectionRemix build">https://basketbuild.com/uploads/devs/resurrectionremix/oneplus2/ResurrectionRemix-M-v5.7.1-20160718-oneplus2.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
